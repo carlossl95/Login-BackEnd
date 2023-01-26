@@ -1,0 +1,12 @@
+C:\projetos\acesso\serve\Serve.Domain\bin\Debug\net6.0\Serve.Domain.deps.json
+C:\projetos\acesso\serve\Serve.Domain\bin\Debug\net6.0\Serve.Domain.dll
+C:\projetos\acesso\serve\Serve.Domain\bin\Debug\net6.0\Serve.Domain.pdb
+C:\projetos\acesso\serve\Serve.Domain\obj\Debug\net6.0\Serve.Domain.csproj.AssemblyReference.cache
+C:\projetos\acesso\serve\Serve.Domain\obj\Debug\net6.0\Serve.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\acesso\serve\Serve.Domain\obj\Debug\net6.0\Serve.Domain.AssemblyInfoInputs.cache
+C:\projetos\acesso\serve\Serve.Domain\obj\Debug\net6.0\Serve.Domain.AssemblyInfo.cs
+C:\projetos\acesso\serve\Serve.Domain\obj\Debug\net6.0\Serve.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\acesso\serve\Serve.Domain\obj\Debug\net6.0\Serve.Domain.dll
+C:\projetos\acesso\serve\Serve.Domain\obj\Debug\net6.0\refint\Serve.Domain.dll
+C:\projetos\acesso\serve\Serve.Domain\obj\Debug\net6.0\Serve.Domain.pdb
+C:\projetos\acesso\serve\Serve.Domain\obj\Debug\net6.0\ref\Serve.Domain.dll
